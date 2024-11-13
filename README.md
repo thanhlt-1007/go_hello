@@ -11,6 +11,11 @@ gvm install go1.23.0
 gvm use go1.23.0
 ```
 
+# Install packages
+```sh
+go mod tidy
+```
+
 ## Run package main
 
 ```sh
